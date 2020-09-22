@@ -3,7 +3,7 @@
 
 I'm **Woojin** from Korea <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="15"/>
 
-- 🔭 I’m currently working on **MyPlanet Inc.**
+- 🔭 I’m currently working on **React, GraphQL Web application**
 - 🌱 I’m currently learning **GraphQL, Nexus, Prisma** and **Typescript**
 
 ### 📚 Currently reading
