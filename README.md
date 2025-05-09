@@ -3,15 +3,8 @@
 
 I'm **Woojin** from Korea <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="15"/>
 
-- 🔭 Currently working on **React, GraphQL Web application**
-- 🌱 Currently learning **GraphQL, Nexus, Apollo, Prisma** and **Typescript**
-- 🎓 Majoring in **computer engineering** at [Kyung Hee University](https://khu.ac.kr)
+- 🎓 Majored in **Computer Engineering** at [Kyung Hee University](https://khu.ac.kr)
 - 🎓 Graudated from [Korea Digital Media High School](https://www.dimigo.hs.kr/)
-
-### 📚 Currently reading
-- [Becoming a Better Programmer](https://isbndb.com/book/9781491905531)
-- [Clean Code](https://isbndb.com/book/9780136083252)
-
 
 ### 🛠 Skills
 #### Currently using
